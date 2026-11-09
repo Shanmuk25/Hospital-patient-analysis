@@ -1,0 +1,101 @@
+Patient ID,Department,Gender,Age Group,Admission Type,Admission Date,Treatment,Outcome,Bed Type,Blood Group
+P001,Cardiology,Male,36-50,Normal,03-Aug-2026,Antibiotics,Discharged,General,A+
+P002,Cardiology,Male,51-65,Normal,13-Aug-2026,Medication,Discharged,ICU,B+
+P003,Pediatrics,Male,36-50,Normal,04-Aug-2026,Antibiotics,Discharged,General,AB-
+P004,General,Male,19-35,Emergency,15-Aug-2026,Medication,Discharged,Private,A+
+P005,Neurology,Female,36-50,Normal,04-Aug-2026,Surgery,Admitted,General,A+
+P006,Orthopedics,Male,36-50,Normal,02-Aug-2026,Medication,Discharged,Private,O+
+P007,General,Male,66+,Emergency,15-Aug-2026,Inhalation Therapy,Admitted,ICU,A+
+P008,Neurology,Male,19-35,Normal,13-Aug-2026,Surgery,Discharged,General,AB+
+P009,General,Male,19-35,Normal,03-Aug-2026,Medication,Discharged,General,O+
+P010,Neurology,Male,36-50,Normal,04-Aug-2026,Physiotherapy,Admitted,General,B+
+P011,Neurology,Female,19-35,Emergency,12-Aug-2026,Antibiotics,Discharged,General,B+
+P012,General,Female,36-50,Normal,05-Aug-2026,Medication,Discharged,General,A-
+P013,Orthopedics,Female,19-35,Normal,06-Aug-2026,Surgery,Discharged,Semi-Private,AB+
+P014,Orthopedics,Male,36-50,Emergency,11-Aug-2026,Emergency Care,Discharged,General,O+
+P015,Neurology,Male,19-35,Normal,16-Aug-2026,Physiotherapy,Admitted,General,A+
+P016,Cardiology,Male,51-65,Normal,02-Aug-2026,Medication,Discharged,General,B+
+P017,Cardiology,Female,66+,Normal,13-Aug-2026,Antibiotics,Discharged,General,A+
+P018,Pediatrics,Female,51-65,Emergency,01-Aug-2026,Inhalation Therapy,Discharged,Private,A+
+P019,Neurology,Male,51-65,Normal,11-Aug-2026,Physiotherapy,Discharged,Semi-Private,AB+
+P020,Cardiology,Male,51-65,Normal,09-Aug-2026,Medication,Discharged,General,A+
+P021,Cardiology,Male,36-50,Normal,08-Aug-2026,Antibiotics,Discharged,General,A+
+P022,General,Female,19-35,Normal,04-Aug-2026,Surgery,Discharged,General,B+
+P023,Cardiology,Male,0-18,Normal,09-Aug-2026,Medication,Discharged,General,O-
+P024,Pediatrics,Male,51-65,Normal,07-Aug-2026,Surgery,Discharged,General,O+
+P025,Emergency,Female,51-65,Normal,13-Aug-2026,Medication,Admitted,General,O+
+P026,Cardiology,Female,66+,Normal,11-Aug-2026,Emergency Care,Admitted,General,A-
+P027,Emergency,Male,66+,Normal,14-Aug-2026,Antibiotics,Discharged,General,B-
+P028,General,Female,36-50,Normal,01-Aug-2026,Medication,Discharged,General,O+
+P029,Emergency,Male,36-50,Emergency,02-Aug-2026,Physiotherapy,Discharged,Semi-Private,AB+
+P030,Cardiology,Male,19-35,Normal,02-Aug-2026,Medication,Discharged,General,O+
+P031,General,Male,0-18,Normal,08-Aug-2026,Surgery,Admitted,General,O+
+P032,Cardiology,Female,36-50,Normal,12-Aug-2026,Medication,Discharged,General,O+
+P033,Orthopedics,Male,36-50,Normal,10-Aug-2026,Antibiotics,Admitted,General,A+
+P034,Orthopedics,Male,51-65,Emergency,09-Aug-2026,Medication,Discharged,Private,B+
+P035,Neurology,Male,36-50,Normal,10-Aug-2026,Emergency Care,Discharged,Private,B+
+P036,Cardiology,Male,66+,Normal,09-Aug-2026,Medication,Discharged,General,AB+
+P037,Pediatrics,Male,19-35,Normal,14-Aug-2026,Emergency Care,Discharged,General,A+
+P038,Orthopedics,Female,19-35,Emergency,07-Aug-2026,Surgery,Admitted,Semi-Private,A+
+P039,Emergency,Female,36-50,Normal,15-Aug-2026,Medication,Discharged,ICU,B+
+P040,General,Female,66+,Emergency,06-Aug-2026,Medication,Admitted,Semi-Private,B-
+P041,Cardiology,Female,66+,Normal,01-Aug-2026,Surgery,Admitted,General,A-
+P042,General,Female,36-50,Emergency,15-Aug-2026,Inhalation Therapy,Discharged,General,O+
+P043,Cardiology,Male,36-50,Normal,16-Aug-2026,Surgery,Discharged,General,AB+
+P044,Cardiology,Female,51-65,Emergency,02-Aug-2026,Surgery,Discharged,General,O+
+P045,General,Male,66+,Emergency,12-Aug-2026,Physiotherapy,Discharged,Semi-Private,B+
+P046,Neurology,Male,36-50,Normal,12-Aug-2026,Physiotherapy,Admitted,Semi-Private,O+
+P047,Orthopedics,Female,19-35,Normal,01-Aug-2026,Medication,Discharged,Semi-Private,O+
+P048,Orthopedics,Female,66+,Emergency,04-Aug-2026,Medication,Discharged,Semi-Private,A+
+P049,General,Male,19-35,Emergency,15-Aug-2026,Emergency Care,Discharged,General,O-
+P050,Cardiology,Male,36-50,Normal,11-Aug-2026,Emergency Care,Discharged,General,A+
+P051,Pediatrics,Male,0-18,Normal,03-Aug-2026,Medication,Discharged,General,O+
+P052,Cardiology,Female,66+,Normal,13-Aug-2026,Medication,Discharged,General,A+
+P053,General,Female,36-50,Normal,03-Aug-2026,Medication,Discharged,Private,O+
+P054,Orthopedics,Female,66+,Emergency,02-Aug-2026,Surgery,Admitted,General,O-
+P055,General,Male,0-18,Normal,04-Aug-2026,Surgery,Admitted,Private,O+
+P056,Cardiology,Female,36-50,Normal,07-Aug-2026,Medication,Admitted,Semi-Private,B+
+P057,Orthopedics,Male,36-50,Normal,06-Aug-2026,Medication,Discharged,Semi-Private,A+
+P058,Neurology,Female,51-65,Normal,08-Aug-2026,Medication,Admitted,General,O+
+P059,General,Male,19-35,Normal,16-Aug-2026,Physiotherapy,Admitted,General,B+
+P060,Orthopedics,Male,51-65,Normal,08-Aug-2026,Emergency Care,Discharged,Semi-Private,O+
+P061,General,Male,19-35,Normal,03-Aug-2026,Antibiotics,Discharged,Semi-Private,O-
+P062,General,Male,51-65,Emergency,05-Aug-2026,Physiotherapy,Discharged,General,A+
+P063,General,Female,51-65,Normal,14-Aug-2026,Surgery,Discharged,General,O-
+P064,Neurology,Male,51-65,Normal,05-Aug-2026,Physiotherapy,Discharged,General,O+
+P065,Emergency,Female,19-35,Normal,11-Aug-2026,Surgery,Discharged,General,O-
+P066,General,Male,19-35,Normal,04-Aug-2026,Physiotherapy,Discharged,General,A+
+P067,Neurology,Male,36-50,Normal,11-Aug-2026,Medication,Discharged,General,A+
+P068,Cardiology,Male,51-65,Emergency,07-Aug-2026,Physiotherapy,Discharged,ICU,O+
+P069,Pediatrics,Female,66+,Normal,04-Aug-2026,Medication,Discharged,Semi-Private,O+
+P070,General,Male,36-50,Normal,03-Aug-2026,Medication,Discharged,General,A+
+P071,General,Male,19-35,Normal,05-Aug-2026,Medication,Discharged,General,AB+
+P072,Pediatrics,Male,51-65,Emergency,06-Aug-2026,Emergency Care,Admitted,Semi-Private,O+
+P073,Orthopedics,Male,19-35,Normal,14-Aug-2026,Surgery,Discharged,General,O+
+P074,Pediatrics,Male,51-65,Emergency,06-Aug-2026,Inhalation Therapy,Discharged,Private,O+
+P075,Orthopedics,Female,36-50,Normal,10-Aug-2026,Antibiotics,Discharged,Private,A+
+P076,Emergency,Female,19-35,Emergency,08-Aug-2026,Medication,Admitted,General,A+
+P077,General,Female,51-65,Normal,07-Aug-2026,Medication,Discharged,General,B+
+P078,Neurology,Male,66+,Emergency,13-Aug-2026,Medication,Admitted,General,AB+
+P079,Emergency,Male,36-50,Emergency,09-Aug-2026,Surgery,Admitted,General,O+
+P080,Neurology,Male,0-18,Normal,08-Aug-2026,Antibiotics,Admitted,Semi-Private,B+
+P081,Orthopedics,Female,66+,Emergency,11-Aug-2026,Surgery,Admitted,General,O+
+P082,General,Male,66+,Normal,12-Aug-2026,Medication,Admitted,General,A+
+P083,General,Female,0-18,Normal,16-Aug-2026,Medication,Discharged,General,O+
+P084,Emergency,Female,51-65,Normal,08-Aug-2026,Medication,Discharged,General,O-
+P085,Pediatrics,Female,19-35,Emergency,12-Aug-2026,Surgery,Discharged,General,A-
+P086,General,Female,0-18,Emergency,14-Aug-2026,Medication,Discharged,Semi-Private,AB+
+P087,Orthopedics,Male,66+,Normal,07-Aug-2026,Inhalation Therapy,Discharged,General,O+
+P088,Neurology,Male,66+,Normal,05-Aug-2026,Physiotherapy,Discharged,General,A+
+P089,General,Male,19-35,Normal,16-Aug-2026,Surgery,Discharged,General,O+
+P090,Neurology,Male,51-65,Normal,09-Aug-2026,Medication,Admitted,Private,A+
+P091,Emergency,Female,51-65,Emergency,05-Aug-2026,Physiotherapy,Discharged,General,O+
+P092,General,Female,0-18,Normal,07-Aug-2026,Medication,Discharged,General,B+
+P093,General,Male,36-50,Normal,03-Aug-2026,Emergency Care,Discharged,General,O+
+P094,General,Female,19-35,Normal,01-Aug-2026,Medication,Admitted,ICU,O-
+P095,Cardiology,Female,19-35,Normal,10-Aug-2026,Medication,Discharged,General,B+
+P096,Cardiology,Female,19-35,Emergency,10-Aug-2026,Medication,Discharged,Semi-Private,O+
+P097,Pediatrics,Male,19-35,Normal,15-Aug-2026,Physiotherapy,Discharged,General,O+
+P098,General,Female,36-50,Normal,14-Aug-2026,Surgery,Admitted,Semi-Private,O+
+P099,General,Female,51-65,Normal,10-Aug-2026,Emergency Care,Discharged,General,AB+
+P100,Emergency,Male,36-50,Emergency,14-Aug-2026,Physiotherapy,Admitted,Semi-Private,O+
