@@ -1,0 +1,12 @@
+HOSPITAL PATIENT ANALYSIS - KEY FINDINGS
+Total records: 100
+Unique patients: 100
+Most common Age Group: 36-50 (28 patients)
+Most common Gender: Male (58 patients)
+Most common Blood Group: O+ (35 patients)
+Most common Department: General (30 patients)
+Most common Admission Type: Normal (72 patients)
+Most common Treatment: Medication (40 patients)
+Most common Outcome: Discharged (72 patients)
+Most common Bed Type: General (65 patients)
+Waiting-time analysis is not included because the supplied CSV has no waiting-time column.
